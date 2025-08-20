@@ -1,4 +1,4 @@
-# College DIP Final Exam - Breast Ultrasound Image Analysis
+# College Digital Image Processing Final Exam - Breast Ultrasound Image Analysis
 
 This MATLAB project performs processes breast ultrasound images using various image enhancement techniques. The techniques include:
 
