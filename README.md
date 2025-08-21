@@ -15,7 +15,7 @@ It also calculates image quality metrics such as:
 
 The results are visualized using subplots for both original and processed images to allow visual comparison and evaluation.
 
-> 🎓 **This project was developed as a Final Assignment of Final Exam (UAS) for the Digital Image Processing (DIP) course (in Indonesian: Pengolahan Citra Digital (PCD)).**
+> 🎓 **This project was developed as a Final Exam (UAS) Final Assignment for the Digital Image Processing (DIP) course (in Indonesian: Pengolahan Citra Digital (PCD)).**
 
 ## ▶️ How to Use
 
